@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pampa.EntityFrameworkCore
+namespace Pampa.Api.DAL
 {
     public class Class1
     {
